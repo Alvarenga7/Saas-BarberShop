@@ -1,5 +1,5 @@
 import Image from "next/image"
-import { Card, CardContent } from "./card"
+import { Card, CardContent } from "./ui/card"
 import { Button } from "@/app/components/ui/button"
 import { MenuIcon } from "lucide-react"
 
